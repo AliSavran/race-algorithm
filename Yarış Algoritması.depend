@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712607639 source:c:\users\ali19\desktop\yarýþ algoritmasý\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
